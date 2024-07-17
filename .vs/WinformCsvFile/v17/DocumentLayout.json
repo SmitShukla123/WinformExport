@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\WinformCsvFile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1444E2-C202-4280-AF34-07BDF6569F50}|WinformCsvFile\\WinformCsvFile.csproj|c:\\users\\admin\\source\\repos\\winformcsvfile\\winformcsvfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1444E2-C202-4280-AF34-07BDF6569F50}|WinformCsvFile\\WinformCsvFile.csproj|solutionrelative:winformcsvfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1444E2-C202-4280-AF34-07BDF6569F50}|WinformCsvFile\\WinformCsvFile.csproj|C:\\Users\\admin\\source\\repos\\WinformCsvFile\\winformcsvfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B1444E2-C202-4280-AF34-07BDF6569F50}|WinformCsvFile\\WinformCsvFile.csproj|solutionrelative:winformcsvfile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1444E2-C202-4280-AF34-07BDF6569F50}|WinformCsvFile\\WinformCsvFile.csproj|C:\\Users\\admin\\source\\repos\\WinformCsvFile\\winformcsvfile\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B1444E2-C202-4280-AF34-07BDF6569F50}|WinformCsvFile\\WinformCsvFile.csproj|solutionrelative:winformcsvfile\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B1444E2-C202-4280-AF34-07BDF6569F50}|WinformCsvFile\\WinformCsvFile.csproj|C:\\Users\\admin\\source\\repos\\WinformCsvFile\\winformcsvfile\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{2B1444E2-C202-4280-AF34-07BDF6569F50}|WinformCsvFile\\WinformCsvFile.csproj|solutionrelative:winformcsvfile\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\WinformCsvFile\\WinformCsvFile\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinformCsvFile\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\WinformCsvFile\\WinformCsvFile\\Form1.Designer.cs",
+              "RelativeToolTip": "WinformCsvFile\\Form1.Designer.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAwwIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T04:59:44.248Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\WinformCsvFile\\WinformCsvFile\\Form1.resx",
+              "RelativeDocumentMoniker": "WinformCsvFile\\Form1.resx",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\WinformCsvFile\\WinformCsvFile\\Form1.resx",
+              "RelativeToolTip": "WinformCsvFile\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-15T04:51:21.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\WinformCsvFile\\WinformCsvFile\\Form1.cs",
+              "RelativeDocumentMoniker": "WinformCsvFile\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\WinformCsvFile\\WinformCsvFile\\Form1.cs*",
+              "RelativeToolTip": "WinformCsvFile\\Form1.cs*",
+              "ViewState": "AQIAALAAAAAAAAAAAADwv8kAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:13:27.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\WinformCsvFile\\WinformCsvFile\\Form1.cs",
+              "RelativeDocumentMoniker": "WinformCsvFile\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\WinformCsvFile\\WinformCsvFile\\Form1.cs [Design]*",
+              "RelativeToolTip": "WinformCsvFile\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T06:07:20.036Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
